@@ -1,0 +1,11 @@
+name: Publish Document
+title:
+username:
+account: rpubs
+server: rpubs.com
+hostUrl: rpubs.com
+appId: https://api.rpubs.com/api/v1/document/762751/6d91ca67168a44e09d483f6e3c6c025f
+bundleId: https://api.rpubs.com/api/v1/document/762751/6d91ca67168a44e09d483f6e3c6c025f
+url: http://rpubs.com/dvillaunal/762751
+when: 1619762835.07718
+lastSyncTime: 1619762835.07718
