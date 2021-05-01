@@ -5,6 +5,8 @@ date: "29/4/2021"
 output: 
   html_document: 
     toc: yes
+    toc_float: yes
+  github_document
 ---
 
 ```{r setup, include=FALSE}
